@@ -59,5 +59,5 @@ To run the project, follow these steps:
 
 ### Results
 
-The results of the project, including evaluation metrics for the trained models, will be printed when you are running notebook cells. You can also observe them by reading the medium blog post related to this topic: 
+The results of the project, including evaluation metrics for the trained models, will be printed when you are running notebook cells. You can also observe them by reading the medium blog post related to this topic: [medium post](https://medium.com/@dnzbykts/starbucks-capstone-project-1839a270742).
 
