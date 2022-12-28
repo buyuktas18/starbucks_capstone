@@ -1,11 +1,13 @@
 # Predicting Customer Response to Starbucks Benefits
 
+The goal of this project is to build a machine learning model that can predict whether a person will respond to a discount offer or not. The model will be trained on a dataset of customer information and historical responses to discount offers. Once trained, the model will be able to take in new data about a customer and output a prediction of whether they are likely to respond to a discount offer. This prediction can then be used by businesses to target their marketing efforts and optimize their outreach strategies.
+
 This project aims to predict whether a customer will respond to a benefit offered by Starbucks, based on historical data.
 
 ##  Requirements
 To run this project, you will need the following software and libraries:
 
-- Python 3.x
+- Python 3.8
 - Pandas
 - NumPy
 - Scikit-learn
@@ -52,8 +54,10 @@ The project has the following structure:
 To run the project, follow these steps:
 
 - Install the required libraries and software listed in the Requirements section.
-Navigate to the notebooks/ directory and open the file Starbucks_Capstone_notebook.ipynb.
-Follow the instructions in the file to run the code and see the results.
-Results
-The results of the project, including evaluation metrics for the trained models, will be printed when you are running notebook cells. You can also observe them by reading the medium blog post related to this topic:
+- Navigate to the notebooks/ directory and open the file Starbucks_Capstone_notebook.ipynb.
+- Follow the instructions in the file to run the code and see the results.
+
+### Results
+
+The results of the project, including evaluation metrics for the trained models, will be printed when you are running notebook cells. You can also observe them by reading the medium blog post related to this topic: 
 
